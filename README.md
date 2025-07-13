@@ -1,8 +1,11 @@
 # 📌 Final Project Computer Graphics / Práctica Final Informática Gráfica
 
 **Codename**: `CS-ComputerGraphics`  
+
 **Type / Tipo**: Academic
+
 **Course / Curso**: 24/25 - Informática Gráfica
+
 **Quarter / Cuatrimestre**: 3rd year 1st / 3er año 1er 
 
 ---
@@ -11,6 +14,7 @@
 
 **EN:**  
 This project is the final assignment for the course "Computer Graphics", which takes place during the third year of the Computer Engineering degree at the University of Granada (UGR). [📄 View the project brief (PDF)](./practicas_ig_en.pdf)
+
 **ES:**  
 Este proyecto es el trabajo final de la asignatura "Informática Gráfica", que toma lugar en el tercer año del grado en Ingeniería Informática de la UGR. [📄 Ver el enunciado del proyecto (PDF)](./practicas_ig_en.pdf)
 
