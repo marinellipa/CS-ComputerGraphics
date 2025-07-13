@@ -38,6 +38,6 @@ Instructions to run the project locally.
 git clone https://github.com/yourusername/CS-ComputerGraphics.git
 
 # Open the Practices-IG folder in QtCreator
-cd CS-ComputerGraphics
+cd CS-ComputerGraphics/Practices-IG
 
 # Run the project
