@@ -23,9 +23,9 @@ Este proyecto es el trabajo final de la asignatura "Informática Gráfica", que 
 ## 🚀 Technologies / Tecnologías
 
 **EN/ES:**  
-  · C++
-  . OpenGL 
-  · QtCreator
+  - C++
+  - OpenGL 
+  - QtCreator
 ---
 
 ## 🛠️ Setup & Usage / Configuración y Uso
