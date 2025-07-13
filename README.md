@@ -1,12 +1,11 @@
 # 📌 Final Project Computer Graphics / Práctica Final Informática Gráfica
 
 **Codename**: `CS-ComputerGraphics`  
+**Type / Tipo**: Academic  
 
-**Type / Tipo**: Academic
-
-**Course / Curso**: 24/25 - Informática Gráfica
-
-**Quarter / Cuatrimestre**: 3rd year 1st / 3er año 1er 
+**Course / Curso**: 24/25 - Informática Gráfica  
+**Quarter / Cuatrimestre**: 3rd year 1st / 3er año 1er  
+**Grade / Nota**: 9,04/10 (90,40%)
 
 ---
 
